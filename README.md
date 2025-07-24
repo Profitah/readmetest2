@@ -1,25 +1,9 @@
-### **1. 기술 스택 섹션 추가**
-markdown
-## 🛠️ 기술 스택
-
-### Frontend
-- **Framework**: Next.js 15 (App Router)
-- **Language**: TypeScript
-- **Styling**: Tailwind CSS
-- **State Management**: Zustand
-- **Data Fetching**: React Query (@tanstack/react-query)
-- **UI Animation**: Framer Motion, GSAP
-- **Audio Processing**: Pitchfinder, audiobuffer-to-wav
-- **Charts**: ApexCharts, Chart.js
-
-### Backend Integration
-- **Real-time Communication**: Server-Sent Events (SSE)
-- **HTTP Client**: Axios
-- **Authentication**: Google OAuth, Firebase
-- **File Upload**: FormData with audio processing
+# YouSync
+유싱크는 실시간 분석서버와 연동된 온라인 더빙 웹 프로젝트입니다.  
+실시간으로 분석하며 sync를 맞춰보세요!
 
 
-### **2. 프로젝트 구조 섹션**
+## **2. 프로젝트 구조 섹션**
 markdown
 ## �� 프로젝트 구조
 
@@ -39,30 +23,16 @@ src/
 ├── store/                # Zustand 상태 관리
 └── utils/                # 유틸리티 함수
 
-
-### **4. 설치 및 실행 가이드**
-markdown
-## �� 설치 및 실행
-
-### 필수 요구사항
-- Node.js 18+ 
-- npm 또는 yarn
-
-### 설치
-bash
-npm install
-### 개발 서버 실행
-bash
-npm run dev
-### 빌드
-bash
-npm run build
-npm start
-
-
-
 ### 오디오 녹음 문제
 마이크 권한이 거부된 경우 브라우저 설정에서 권한을 허용해주세요.
+
+## 🛠️ 기술 스택
+### Frontend
+<img width="3291" height="2135" alt="fe_stazck" src="https://github.com/user-attachments/assets/d6cba2b9-3161-4cc2-b830-9e4e369f01f0" />
+
+### Backend Integration
+<img width="3291" height="2135" alt="Backend   Integration" src="https://github.com/user-attachments/assets/f8e68137-201c-4d30-9db6-d5f056d93085" />
+
 
 ### 성능 개선
 
