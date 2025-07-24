@@ -32,6 +32,8 @@ src/
 
 
 ### 성능 개선
+<img width="3291" height="2135" alt="스크린샷 2025-07-24 오후 8 35 38" src="https://github.com/user-attachments/assets/3c334bb8-1a63-4f81-8aeb-b0d1e13f6070" />
+
 
 ### 오디오 녹음 문제
 마이크 권한이 거부된 경우 브라우저 설정에서 권한을 허용해주세요.
